@@ -1,7 +1,7 @@
 
 
 
-![Screenshot](Myresume.png)
+![Screenshot](img/Myresume.png)
 
 
 
